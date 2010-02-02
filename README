@@ -1,0 +1,8 @@
+Torrentz.com downloader
+=======================
+
+Simple utility for downloading torrents from torrentz.com
+
+
+Pass http://torrentz.com/<id> URL from clipboard, as commandline argument or into the prompt.
+The .torrent file will be automatically downloaded from supported site and extra trackers will be added. 
